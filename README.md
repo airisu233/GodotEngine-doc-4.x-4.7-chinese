@@ -1,2 +1,1 @@
-Godot Engine 4.x(4.7) 简体中文文档
-
+Godot Engine 4.x(4.7) 简体中文文档，下载完后双击index.html即可进入离线文档
